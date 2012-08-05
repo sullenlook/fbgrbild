@@ -1,0 +1,13 @@
+FACEBOOK GRUPPEN PLUGIN IN DEUTSCH
+
+
+Sag "Unsere Facebook Gruppe" und Siri antwortet.
+
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "fbgrbild" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "fbgrbild" in plugins.conf ein
+
+FERTIG
